@@ -1,0 +1,4 @@
+# Will ignore any file except the repositories.json and the local contents of the workspace folder.
+/**
+!/.gitignore
+!/workspace/
